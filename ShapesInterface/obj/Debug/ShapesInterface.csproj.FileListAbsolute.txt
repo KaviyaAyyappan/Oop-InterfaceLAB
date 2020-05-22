@@ -1,0 +1,7 @@
+C:\Users\kaviya\source\repos\Oop exercise\Interfaces\ShapesInterface\bin\Debug\ShapesInterface.exe.config
+C:\Users\kaviya\source\repos\Oop exercise\Interfaces\ShapesInterface\bin\Debug\ShapesInterface.exe
+C:\Users\kaviya\source\repos\Oop exercise\Interfaces\ShapesInterface\bin\Debug\ShapesInterface.pdb
+C:\Users\kaviya\source\repos\Oop exercise\Interfaces\ShapesInterface\obj\Debug\ShapesInterface.csprojAssemblyReference.cache
+C:\Users\kaviya\source\repos\Oop exercise\Interfaces\ShapesInterface\obj\Debug\ShapesInterface.csproj.CoreCompileInputs.cache
+C:\Users\kaviya\source\repos\Oop exercise\Interfaces\ShapesInterface\obj\Debug\ShapesInterface.exe
+C:\Users\kaviya\source\repos\Oop exercise\Interfaces\ShapesInterface\obj\Debug\ShapesInterface.pdb
